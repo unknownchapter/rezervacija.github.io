@@ -1,0 +1,51 @@
+.elementor-1280 .elementor-element.elementor-element-af683c6 {
+    --display: flex;
+    --background-transition: 0.3s;
+    --overlay-opacity: 0.05;
+}
+
+.elementor-1280 .elementor-element.elementor-element-af683c6::before,
+.elementor-1280 .elementor-element.elementor-element-af683c6>.elementor-background-video-container::before,
+.elementor-1280 .elementor-element.elementor-element-af683c6>.e-con-inner>.elementor-background-video-container::before,
+.elementor-1280 .elementor-element.elementor-element-af683c6>.elementor-background-slideshow::before,
+.elementor-1280 .elementor-element.elementor-element-af683c6>.e-con-inner>.elementor-background-slideshow::before,
+.elementor-1280 .elementor-element.elementor-element-af683c6>.elementor-motion-effects-container>.elementor-motion-effects-layer::before {
+    --background-overlay: '';
+    background-image: url("https://pionir.hr/wp-content/uploads/2023/10/bullhorn-dutone.svg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 350px auto;
+}
+
+.elementor-1280 .elementor-element.elementor-element-d114dca {
+    color: var( --e-global-color-secondary);
+    font-family: "Roboto", Sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+#elementor-popup-modal-1280 .dialog-message {
+    width: 640px;
+    height: auto;
+    padding: 30px 30px 30px 30px;
+}
+
+#elementor-popup-modal-1280 {
+    justify-content: center;
+    align-items: center;
+    pointer-events: all;
+    background-color: rgba(0, 0, 0, .8);
+}
+
+#elementor-popup-modal-1280 .dialog-close-button {
+    display: flex;
+}
+
+#elementor-popup-modal-1280 .dialog-widget-content {
+    animation-duration: 0.5s;
+    box-shadow: 2px 8px 23px 3px rgba(0, 0, 0, 0.2);
+}
+
+.elementor-widget .tippy-tooltip .tippy-content {
+    text-align: center;
+}

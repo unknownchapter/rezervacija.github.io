@@ -1,0 +1,97 @@
+.elementor-5507 .elementor-element.elementor-element-8a55826 {
+    --display: flex;
+    --background-transition: 0.3s;
+    --overlay-opacity: 0.05;
+}
+
+.elementor-5507 .elementor-element.elementor-element-8a55826::before,
+.elementor-5507 .elementor-element.elementor-element-8a55826>.elementor-background-video-container::before,
+.elementor-5507 .elementor-element.elementor-element-8a55826>.e-con-inner>.elementor-background-video-container::before,
+.elementor-5507 .elementor-element.elementor-element-8a55826>.elementor-background-slideshow::before,
+.elementor-5507 .elementor-element.elementor-element-8a55826>.e-con-inner>.elementor-background-slideshow::before,
+.elementor-5507 .elementor-element.elementor-element-8a55826>.elementor-motion-effects-container>.elementor-motion-effects-layer::before {
+    --background-overlay: '';
+}
+
+.elementor-5507 .elementor-element.elementor-element-95c7c11 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child) {
+    padding-bottom: calc(8px/2);
+}
+
+.elementor-5507 .elementor-element.elementor-element-95c7c11 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child) {
+    margin-top: calc(8px/2);
+}
+
+.elementor-5507 .elementor-element.elementor-element-95c7c11 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item {
+    margin-right: calc(8px/2);
+    margin-left: calc(8px/2);
+}
+
+.elementor-5507 .elementor-element.elementor-element-95c7c11 .elementor-icon-list-items.elementor-inline-items {
+    margin-right: calc(-8px/2);
+    margin-left: calc(-8px/2);
+}
+
+body.rtl .elementor-5507 .elementor-element.elementor-element-95c7c11 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+    left: calc(-8px/2);
+}
+
+body:not(.rtl) .elementor-5507 .elementor-element.elementor-element-95c7c11 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+    right: calc(-8px/2);
+}
+
+.elementor-5507 .elementor-element.elementor-element-95c7c11 .elementor-icon-list-icon i {
+    color: var( --e-global-color-secondary);
+    transition: color 0.3s;
+}
+
+.elementor-5507 .elementor-element.elementor-element-95c7c11 .elementor-icon-list-icon svg {
+    fill: var( --e-global-color-secondary);
+    transition: fill 0.3s;
+}
+
+.elementor-5507 .elementor-element.elementor-element-95c7c11 {
+    --e-icon-list-icon-size: 10px;
+    --icon-vertical-align: flex-start;
+    --icon-vertical-offset: 6px;
+}
+
+.elementor-5507 .elementor-element.elementor-element-95c7c11 .elementor-icon-list-icon {
+    padding-right: 5px;
+}
+
+.elementor-5507 .elementor-element.elementor-element-95c7c11 .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-5507 .elementor-element.elementor-element-95c7c11 .elementor-icon-list-item>a {
+    font-family: "Roboto", Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.elementor-5507 .elementor-element.elementor-element-95c7c11 .elementor-icon-list-text {
+    color: var( --e-global-color-primary);
+    transition: color 0.3s;
+}
+
+#elementor-popup-modal-5507 .dialog-message {
+    width: 800px;
+    height: auto;
+    padding: 30px 30px 30px 30px;
+}
+
+#elementor-popup-modal-5507 {
+    justify-content: center;
+    align-items: center;
+    pointer-events: all;
+    background-color: rgba(0, 0, 0, .8);
+}
+
+#elementor-popup-modal-5507 .dialog-close-button {
+    display: flex;
+}
+
+#elementor-popup-modal-5507 .dialog-widget-content {
+    box-shadow: 2px 8px 23px 3px rgba(0, 0, 0, 0.2);
+}
+
+.elementor-widget .tippy-tooltip .tippy-content {
+    text-align: center;
+}

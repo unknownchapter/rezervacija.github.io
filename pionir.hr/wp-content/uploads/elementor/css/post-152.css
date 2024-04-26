@@ -1,0 +1,127 @@
+.elementor-152 .elementor-element.elementor-element-abcc248 {
+    --display: flex;
+    --min-height: 300px;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --justify-content: center;
+    --background-transition: 0.3s;
+    --overlay-opacity: 0.7;
+}
+
+.elementor-152 .elementor-element.elementor-element-abcc248:not(.elementor-motion-effects-element-type-background),
+.elementor-152 .elementor-element.elementor-element-abcc248>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #00172DD9;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.elementor-152 .elementor-element.elementor-element-abcc248::before,
+.elementor-152 .elementor-element.elementor-element-abcc248>.elementor-background-video-container::before,
+.elementor-152 .elementor-element.elementor-element-abcc248>.e-con-inner>.elementor-background-video-container::before,
+.elementor-152 .elementor-element.elementor-element-abcc248>.elementor-background-slideshow::before,
+.elementor-152 .elementor-element.elementor-element-abcc248>.e-con-inner>.elementor-background-slideshow::before,
+.elementor-152 .elementor-element.elementor-element-abcc248>.elementor-motion-effects-container>.elementor-motion-effects-layer::before {
+    --background-overlay: '';
+    background-color: #000000;
+}
+
+.elementor-152 .elementor-element.elementor-element-abcc248,
+.elementor-152 .elementor-element.elementor-element-abcc248::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-152 .elementor-element.elementor-element-86a54b5 {
+    text-align: center;
+}
+
+.elementor-152 .elementor-element.elementor-element-86a54b5 .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Roboto", Sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 60px;
+}
+
+.elementor-152 .elementor-element.elementor-element-5bd8ac1 {
+    --display: flex;
+    --min-height: 60px;
+    --flex-direction: row;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --justify-content: center;
+    --align-items: center;
+    --background-transition: 0.3s;
+    --padding-block-start: 0px;
+    --padding-block-end: 0px;
+    --padding-inline-start: 30px;
+    --padding-inline-end: 30px;
+}
+
+.elementor-152 .elementor-element.elementor-element-5bd8ac1:not(.elementor-motion-effects-element-type-background),
+.elementor-152 .elementor-element.elementor-element-5bd8ac1>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #F5F5F5;
+}
+
+.elementor-152 .elementor-element.elementor-element-5bd8ac1,
+.elementor-152 .elementor-element.elementor-element-5bd8ac1::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-152 .elementor-element.elementor-element-095afbb {
+    font-family: "Roboto", Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #555555;
+}
+
+.elementor-152 .elementor-element.elementor-element-095afbb a {
+    color: var( --e-global-color-primary);
+}
+
+.elementor-152 .elementor-element.elementor-element-095afbb a:hover {
+    color: var( --e-global-color-secondary);
+}
+
+.elementor-152 .elementor-element.elementor-element-737eef3 {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-152 .elementor-element.elementor-element-088e1ed {
+    color: #111111;
+    font-family: "Roboto", Sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 26px;
+}
+
+.elementor-152 .elementor-element.elementor-element-088e1ed>.elementor-widget-container {
+    margin: 30px 0px 0px 0px;
+}
+
+.elementor-widget .tippy-tooltip .tippy-content {
+    text-align: center;
+}
+
+@media(max-width:1200px) {
+    .elementor-152 .elementor-element.elementor-element-86a54b5 .elementor-heading-title {
+        font-size: 40px;
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-152 .elementor-element.elementor-element-abcc248 {
+        --min-height: 180px;
+        --overlay-opacity: 0;
+    }
+    .elementor-152 .elementor-element.elementor-element-86a54b5 .elementor-heading-title {
+        font-size: 30px;
+    }
+}

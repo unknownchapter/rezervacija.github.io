@@ -1,0 +1,151 @@
+.elementor-144 .elementor-element.elementor-element-cd5add2 {
+    --display: flex;
+    --min-height: 80px;
+    --flex-direction: row;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --align-items: center;
+    --gap: 0px 0px;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 3px 0px 0px 0px;
+    --border-block-start-width: 3px;
+    --border-inline-end-width: 0px;
+    --border-block-end-width: 0px;
+    --border-inline-start-width: 0px;
+    border-color: var( --e-global-color-text);
+    --border-color: var( --e-global-color-text);
+    --margin-block-start: 0px;
+    --margin-block-end: 0px;
+    --margin-inline-start: 0px;
+    --margin-inline-end: 0px;
+}
+
+.elementor-144 .elementor-element.elementor-element-cd5add2:not(.elementor-motion-effects-element-type-background),
+.elementor-144 .elementor-element.elementor-element-cd5add2>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #1E1E1E;
+}
+
+.elementor-144 .elementor-element.elementor-element-cd5add2,
+.elementor-144 .elementor-element.elementor-element-cd5add2::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-144 .elementor-element.elementor-element-f1f98d6 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+}
+
+.elementor-144 .elementor-element.elementor-element-133eea2 .elementor-heading-title {
+    color: #FFFFFF;
+    font-family: "Roboto", Sans-serif;
+    font-size: 13px;
+    font-weight: normal;
+    line-height: 24px;
+}
+
+.elementor-144 .elementor-element.elementor-element-dc8ca0f {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+    border-style: solid;
+    --border-style: solid;
+    border-width: 0px 0px 0px 0px;
+    --border-block-start-width: 0px;
+    --border-inline-end-width: 0px;
+    --border-block-end-width: 0px;
+    --border-inline-start-width: 0px;
+    border-color: #FFFFFF26;
+    --border-color: #FFFFFF26;
+}
+
+.elementor-144 .elementor-element.elementor-element-dc8ca0f,
+.elementor-144 .elementor-element.elementor-element-dc8ca0f::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-144 .elementor-element.elementor-element-a810b2a .elementor-icon-list-icon i {
+    color: var( --e-global-color-primary);
+    transition: color 0.3s;
+}
+
+.elementor-144 .elementor-element.elementor-element-a810b2a .elementor-icon-list-icon svg {
+    fill: var( --e-global-color-primary);
+    transition: fill 0.3s;
+}
+
+.elementor-144 .elementor-element.elementor-element-a810b2a .elementor-icon-list-item:hover .elementor-icon-list-icon i {
+    color: #FFFFFF;
+}
+
+.elementor-144 .elementor-element.elementor-element-a810b2a .elementor-icon-list-item:hover .elementor-icon-list-icon svg {
+    fill: #FFFFFF;
+}
+
+.elementor-144 .elementor-element.elementor-element-a810b2a {
+    --e-icon-list-icon-size: 14px;
+    --icon-vertical-offset: 0px;
+}
+
+.elementor-144 .elementor-element.elementor-element-a810b2a .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-144 .elementor-element.elementor-element-a810b2a .elementor-icon-list-item>a {
+    font-family: "Roboto", Sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.elementor-144 .elementor-element.elementor-element-a810b2a .elementor-icon-list-text {
+    color: var( --e-global-color-primary);
+    transition: color 0.3s;
+}
+
+.elementor-144 .elementor-element.elementor-element-a810b2a .elementor-icon-list-item:hover .elementor-icon-list-text {
+    color: #FFFFFF;
+}
+
+.elementor-widget .tippy-tooltip .tippy-content {
+    text-align: center;
+}
+
+@media(max-width:767px) {
+    .elementor-144 .elementor-element.elementor-element-f1f98d6.e-con {
+        --order: 99999/* order end hack */
+        ;
+    }
+    .elementor-144 .elementor-element.elementor-element-133eea2 {
+        text-align: center;
+    }
+    .elementor-144 .elementor-element.elementor-element-dc8ca0f {
+        border-width: 0px 0px 1px 0px;
+        --border-block-start-width: 0px;
+        --border-inline-end-width: 0px;
+        --border-block-end-width: 1px;
+        --border-inline-start-width: 0px;
+    }
+    .elementor-144 .elementor-element.elementor-element-dc8ca0f.e-con {
+        --order: -99999/* order start hack */
+        ;
+    }
+}
+
+@media(min-width:768px) {
+    .elementor-144 .elementor-element.elementor-element-f1f98d6 {
+        --width: 50%;
+    }
+    .elementor-144 .elementor-element.elementor-element-dc8ca0f {
+        --width: 50%;
+    }
+}

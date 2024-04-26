@@ -1,0 +1,43 @@
+.elementor-212 .elementor-element.elementor-element-af683c6 {
+    --display: flex;
+    --background-transition: 0.3s;
+    --padding-block-start: 0px;
+    --padding-block-end: 0px;
+    --padding-inline-start: 0px;
+    --padding-inline-end: 0px;
+}
+
+.elementor-212 .elementor-element.elementor-element-b2206af .elementor-heading-title {
+    color: var( --e-global-color-text);
+    font-family: "Roboto", Sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 26px;
+}
+
+#elementor-popup-modal-212 .dialog-message {
+    width: 1140px;
+    height: auto;
+    padding: 20px 30px 20px 30px;
+}
+
+#elementor-popup-modal-212 {
+    justify-content: center;
+    align-items: center;
+    pointer-events: all;
+    background-color: rgba(0, 0, 0, .8);
+}
+
+#elementor-popup-modal-212 .dialog-close-button {
+    display: flex;
+}
+
+#elementor-popup-modal-212 .dialog-widget-content {
+    animation-duration: 0.5s;
+    box-shadow: 2px 8px 23px 3px rgba(0, 0, 0, 0.2);
+    margin: 0px 10px 0px 10px;
+}
+
+.elementor-widget .tippy-tooltip .tippy-content {
+    text-align: center;
+}

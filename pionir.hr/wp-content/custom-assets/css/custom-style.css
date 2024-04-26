@@ -1,0 +1,55 @@
+.fa-spinner {
+    padding: 0 !important;
+}
+
+/* Space Specification */
+
+.mgt-0 {
+    margin-top: 0 !important;
+}
+
+.mgb-0 {
+    margin-bottom: 0 !important;
+}
+
+.mgt-5 {
+    margin-top: 5px !important;
+}
+
+.mgb-5 {
+    margin-bottom: 5px !important;
+}
+
+.mgt-10 {
+    margin-top: 10px !important;
+}
+
+.mgb-10 {
+    margin-bottom: 10px !important;
+}
+
+.mgt-15 {
+    margin-top: 15px !important;
+}
+
+.mgb-15 {
+    margin-bottom: 15px !important;
+}
+
+.mgt-20 {
+    margin-top: 20px !important;
+}
+
+.mgb-20 {
+    margin-bottom: 20px !important;
+}
+
+.mgt-25 {
+    margin-top: 25px !important;
+}
+
+.mgb-25 {
+    margin-bottom: 25px !important;
+}
+
+/* END - Space Specification */
